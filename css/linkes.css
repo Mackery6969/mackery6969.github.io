@@ -1,0 +1,17 @@
+.twoheader {
+    margin-left: 20%;
+    font-size: 125%;
+    font-style: bold;
+}
+
+.images, :not(yt) {
+    margin-left: 1%;
+}
+
+.friends {
+    margin-left: 4%;
+}
+
+.link {
+    margin-left: 0%;
+}
