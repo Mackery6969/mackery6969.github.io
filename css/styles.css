@@ -1,5 +1,13 @@
+@font-face {
+    font-family: 'SANS';
+    src: url('fonts/Comic Sans MS.woff2') format('woff2'),
+         url('fonts/Comic Sans MS.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'SANS', sans-serif;
     background-color: grey;
     padding: 2%;
 }
