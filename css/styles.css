@@ -8,11 +8,12 @@
 }
 
 body {
+    background-color: black;
     background-image: url('assets/images/LuigiGrid.png');
     background-size: cover; /* This ensures the image covers the entire background */
     background-repeat: no-repeat; /* This prevents the image from repeating */
     background-position: center; /* This centers the background image */
-    
+
     font-family: 'SANS', sans-serif;
     color: white;
     padding: 2%;
