@@ -1,18 +1,19 @@
 @font-face {
     font-family: 'SANS';
-    src: url('fonts/Comic Sans MS.woff2') format('woff2'),
-         url('fonts/Comic Sans MS.woff') format('woff'),
-         url('fonts/Comic Sans MS.ttf') format('ttf');
+    src: url('https://github.com/Mackery6969/mackery6969.github.io/raw/main/fonts/Comic%20Sans%20MS.woff2') format('woff2'),
+         url('https://github.com/Mackery6969/mackery6969.github.io/raw/main/fonts/Comic%20Sans%20MS.woff') format('woff'),
+         url('https://github.com/Mackery6969/mackery6969.github.io/raw/main/fonts/Comic%20Sans%20MS.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
     background-color: black;
-    background-image: url('assets/images/LuigiGrid.png');
+    background-image: url('https://github.com/Mackery6969/mackery6969.github.io/blob/main/assets/images/LuigiGrid.png?raw=true');
     background-size: cover; /* This ensures the image covers the entire background */
     background-repeat: no-repeat; /* This prevents the image from repeating */
     background-position: center; /* This centers the background image */
+    background-position-y: 0%; /* This centers the background image vertically */
 
     font-family: 'SANS', sans-serif;
     color: white;
